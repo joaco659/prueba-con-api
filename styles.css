@@ -1,0 +1,22 @@
+
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 20em;
+	background: #dadada;
+}
+
+.display-info {
+	background: #cacaca;
+	padding: 1em;
+	font-family: sans-serif;
+}
+
+.display-info > b {color: #0b5}
+
+.temporal-title {
+	color: #0af;
+	font-family: 'Courier New', sans-serif;
+}
